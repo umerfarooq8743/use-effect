@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/use-effect/static/css/main.e7468afd.css",
+    "main.js": "/use-effect/static/js/main.bb10f9bf.js",
+    "index.html": "/use-effect/index.html",
+    "main.e7468afd.css.map": "/use-effect/static/css/main.e7468afd.css.map",
+    "main.bb10f9bf.js.map": "/use-effect/static/js/main.bb10f9bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.bb10f9bf.js"
+  ]
+}
